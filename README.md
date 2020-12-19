@@ -65,7 +65,7 @@ git clone https://github.com/yihong0618/running_page.git
 ```
 pip3 install -r requirements.txt
 yarn install
-yarn develop
+yarn develop or yarn build
 ```
 Open your browser and visit http://localhost:8000/ 
 
